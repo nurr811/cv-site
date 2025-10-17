@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Emine Nur İMRAN Öğrenci No: 241015031</title> 
+    <style> 
+      .kutu1{ 
+        background-color: rgb(231, 231, 205);
+      }
+
+
+    </style>
+
+</head>
+ <body> 
+     <div class="kutu1">
+        
+    <h2>EMİNE NUR İMRAN</h2>
+    <P>Öğrenci No: 241015031 </P> 
+     
+    <img src="WhatsApp Image 2025-10-15 at 19.54.59.jpeg"width="200px">
+     
+    <section> 
+        <h2> İLETİŞİM</h2> 
+        <P>  0541 154 06 81</P>
+         <a href="mailto:imraneminenur@gmail.com">imraneminenur@gmail.com</a>
+        
+   </section>
+        <h2><B>HAKKINDA</B></h2>
+        <ul> 
+            <li>19 yaşındayım. </li>
+             <li>Düzce Üniversitesinde bilgisayar mühendisliği (ingilizce) okuyorum. </li>
+             <li>Düzcede yaşıyorum.</li>
+             <li>Turgut Özal Anadolu Lisesinden mezunum.</li>  
+             <li>Bir sene hazırlık okudum.</li>
+        </ul>
+        <h3>Diller</h3>
+        <ul> 
+            <li>Türkçe (Ana dil)</li>
+            <li>İngilizce (Orta seviye)</li>
+        </ul>
+        <h3>Hobiler</h3>
+        <ul>
+            <li>Kitap okumak.</li>
+            <li>Bisiklet sürmek.</li>
+            <li>Seyehat etmek.</li>
+            <li>Yeni dil öğrenmek.</li>
+            <li>Teknolojik aletlerle uğraşmak.</li>
+            
+            
+        </ul>
+        <h3>İleriye Yönelik Hedeflerim</h3>
+            <ul>
+                <li>Bölümümü başarıyla bitirip iyi bir yazılımcı olmak istiyorum.Yurt dışına çıkıp oradaki olanakları görmek ve kendimi geliştirmek istiyorum.
+                 İleriki zamanlarda bi yapay zeka geliştirip bunun üzerine projelerde yapmak hedefim (inşallah yapabilirim).
+                 Hayatımın bir döneminde ülkemizde bulunan güzellikleri görmek amacıyla bir karavan tatili yapmak var planlarım arasında.</li>
+            </ul>
+            <h3>Becerilerim</h3>
+            <ul>
+                <li>Araştırmacılık</li>                  
+                <li>Yönetim</li>
+            </ul>
+     </div>
+           
+ </body>
+</html>
